@@ -87,6 +87,10 @@ numberOfDishes = 10
 everyDishNumberToEat = 3
 
 dishes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+[3,6,9]
+[1,2,4,5,7,8,10]
+[3.6.9.2.7.1]
+[4.5.10]
 ```
 
 **Output**
